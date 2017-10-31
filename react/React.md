@@ -8,5 +8,5 @@
 * `nprogress` 顶部进度条 https://github.com/rstacruz/nprogress
 * `react-virtualized` 无限滚动 https://github.com/bvaughn/react-virtualized
 * `react-amap` React 封装的高德地图组件 https://github.com/ElemeFE/react-amap
-
+* `react-document-title` 设置html title https://github.com/gaearon/react-document-title
 
